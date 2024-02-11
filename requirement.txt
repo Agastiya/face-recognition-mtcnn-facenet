@@ -1,0 +1,7 @@
+numpy
+Pillow
+mtcnn
+keras_facenet
+facenet
+flask
+split-folders
