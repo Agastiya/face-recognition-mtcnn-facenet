@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://learn.g2.com/hubfs/G2CM_FI454_Learn_Article_Images_%5BFacial_recognition%5D_V1a-1.png" alt="Markdownify" width="200">
+  <img src="https://learn.g2.com/hubfs/G2CM_FI454_Learn_Article_Images_%5BFacial_recognition%5D_V1a-1.png" alt="Face Recognition">
   <br>
-   Face Recognition with MTCNN and FaceNet
+  Face Recognition with MTCNN and FaceNet
   <br>
 </h1>
 
