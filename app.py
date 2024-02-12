@@ -38,7 +38,7 @@ def upload():
 
     if photo and allowed_file(photo.filename):
         faces_embedding, faces_labels = load_model(
-            'processing/model/model_train.npz',
+            'processing/model/model.npz',
         )
         face = identify_face(full_path, faces_embedding, faces_labels)
 

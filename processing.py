@@ -46,6 +46,5 @@ print('Split Dataset Finish ...')
 print('\n---------------------------------\n')
 
 print('Train Model Start ...')
-train('processing/resources/split_dataset/test/', 'processing/model/model_test.npz')
-train('processing/resources/split_dataset/train/', 'processing/model/model_train.npz')
+train('processing/resources/split_dataset/train/', 'processing/model/model.npz')
 print('Train Model Finish ...')
