@@ -9,7 +9,7 @@
 <p align="center"><a href="#">
     <img src="https://learn.g2.com/hubfs/G2CM_FI454_Learn_Article_Images_%5BFacial_recognition%5D_V1a-1.png" width="400" alt="Face Recognition"></a>
     <br>
-    <p align="center" style="font-size=30px;"><b>Face Recognition with MTCNN and FaceNet</b></p>
+    <p align="center"><h3>Face Recognition with MTCNN and FaceNet</h3></p>
 </p>
 
 ## About
