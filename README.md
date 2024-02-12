@@ -6,8 +6,11 @@
     <br>
 </h1> -->
 
-<p align="center"><a href="#"><img src="https://learn.g2.com/hubfs/G2CM_FI454_Learn_Article_Images_%5BFacial_recognition%5D_V1a-1.png" width="400" alt="Face Recognition"></a></p>
-<p align="center"><h2>Face Recognition with MTCNN and FaceNet</h2></p>
+<p align="center"><a href="#">
+    <img src="https://learn.g2.com/hubfs/G2CM_FI454_Learn_Article_Images_%5BFacial_recognition%5D_V1a-1.png" width="400" alt="Face Recognition"></a>
+    <br>
+    Face Recognition with MTCNN and FaceNet
+</p>
 
 ## About
 This face recognition project is the project that I use as my thesis. This face recognition program uses the MTCNN method for face detection and FaceNet for face recognition. In short, after the face detection process using MTCNN, the FaceNet algorithm produces a unique vector representation for each face obtained. The process will continue by comparing the vector with a previously encoded face database to identify and verify the face.
